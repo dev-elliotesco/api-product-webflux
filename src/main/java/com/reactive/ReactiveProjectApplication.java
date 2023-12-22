@@ -9,6 +9,7 @@ public class ReactiveProjectApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(ReactiveProjectApplication.class, args);
+		System.out.println("Reactive Project Started");
 	}
 
 }
